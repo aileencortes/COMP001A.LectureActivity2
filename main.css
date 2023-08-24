@@ -4,8 +4,8 @@
 *********************************************************/
 
 body {
-.content { background-color: blu; /* "blu" is not a valid color value. It should be "blue". */ }   
- }
+background-color: blue; /* "blu" is not a valid color value. It should be "blue". */
+ }   
     h1 {
     color: #363636;
     }
